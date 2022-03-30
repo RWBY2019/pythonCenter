@@ -6,7 +6,7 @@
 
 ## 🌈简介
 🎉  CC的个人python代码库
-- 还在上学，有空会慢慢整理，希望有一天可以变成一个牛逼哄哄的文档库
+- 原网址：https://github.com/junchaoIU/pythonCenter
 
 ## ✨模块
 - python基础
